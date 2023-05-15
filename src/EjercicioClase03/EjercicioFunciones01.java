@@ -20,20 +20,16 @@ public class EjercicioFunciones01 {
         scanner.close();
     }
     public static boolean esPrimo(int numero) {
-        if (numero < 2) {
-            return false;
-        }
-
-        for (int i = 2; i * i <= numero; i++) {
-            if (esDivisible(numero, i)) {
-                return false;
+        int divisores = 1;
+        for(int i = 2; i <= numero; i ++) {
+            if( numero % i == 0 ) {
+                divisores ++;
             }
         }
-
-        return true;
+        return divisores == 2;
     }
 
-    public static Boolean esDivisible(int a, int b) {
+    public static boolean esDivisible(int a, int b) {
         return a % b == 0;
     }
 }
