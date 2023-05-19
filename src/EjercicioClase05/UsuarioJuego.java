@@ -46,15 +46,15 @@ public class UsuarioJuego {
     }
 
     public void aumentarPuntaje() {
-        this.puntaje = puntaje + 1;
+        this.puntaje++;
     }
 
     public void subirNivel() {
-        this.nivel = nivel + 1;
+        this.nivel++;
     }
 
     public void bonus(int valor) {
-        this.puntaje = puntaje + valor;
+        this.puntaje += valor;
     }
 
 }
