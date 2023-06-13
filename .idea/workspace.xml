@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12ec70b0-5442-4c3b-9ee6-22a66c245411" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EjercicioClase10/Asteroide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjercicioClase10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjercicioClase10/Nave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjercicioClase10/Objeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clase16/Equipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clase16/Jugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clase16/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjercicioClase10/Nave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjercicioClase10/Nave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EjercicioClase10/Objeto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjercicioClase10/Objeto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +28,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Clase02/Funciones.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Clase02/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/EjercicioClase11/Cuenta.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
